@@ -60,6 +60,7 @@
 
 
 4. **Drafts and Reports Files**
+
    Draft research proposals: draft-proposal-[title]-[version].[file-type-extension] 
 
    Conference papers: conf-[version].[file-type-extension] 
@@ -68,9 +69,9 @@
 
 
 5. **Other**
+
    media files: [media-type]-id[id number].[file-type-extension] 
 
    photos: photo-[id number]-[version].[file-type-extension] 
 
    info sheets: infosheet-[title]-[version].[file-type-extension] 
-   
