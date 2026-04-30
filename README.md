@@ -35,12 +35,12 @@
    interview transcripts: iview-transcript-[version].[file-type-extension]
    interview protocols: iview-protocols-[version].[file-type-extension]
    Consent forms: consent-forms-[version].[file-type-extension]
-   Analysis-insights report: analysis-insights-[version].[file-type-extension]
+   Analysis-insights report: analysis-[version].[file-type-extension]
 4. **Drafts and Reports Files**
-   Draft research proposals: draft-proposal-[version].[file-type-extension]
-   Conference papers: conf-paper-[version].[file-type-extension]
+   Draft research proposals: draft-proposal-[title]-[version].[file-type-extension]
+   Conference papers: conf-[version].[file-type-extension]
    Final reports: final-report.[file-type-extension]
 5. **Other**
    media files: [media-type]-id[id number].[file-type-extension]
-   photos: photo-id-[id number]-[version].[file-type-extension]
+   photos: photo-[id number]-[version].[file-type-extension]
    info sheets: infosheet-[title]-[version].[file-type-extension]
